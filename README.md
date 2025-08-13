@@ -56,6 +56,21 @@ Minimalist, visually rich landing page tailored for artists, optimized for perfo
 
 ---
 
+## 🏆 Achievements
+
+- 🎓 **Qualified UGC NET (Computer Science) – June 2025**  
+  Achieved national-level eligibility for Assistant Professor & Ph.D. in Indian universities. *(National Testing Agency & University Grants Commission)*  
+
+---
+
+## 📜 Certifications
+
+[![Accenture Virtual Experience - Aug 2022](https://img.shields.io/badge/Accenture%20Virtual%20Experience%20(Aug%202022)-purple?style=for-the-badge)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_HMgz7D3NFr5SHrfjk_1660731520492_completion_certificate.pdf)  
+[![Accenture Virtual Experience - Jul 2025](https://img.shields.io/badge/Accenture%20Virtual%20Experience%20(Jul%202025)-purple?style=for-the-badge)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/HNpZwZcuYwona2d8Y_xhih9yFWsf6AYfngd_HMgz7D3NFr5SHrfjk_1753297715257_completion_certificate.pdf)  
+[![Python Certificate - HackerRank](https://img.shields.io/badge/Python%20Certificate%20(HackerRank)-blue?style=for-the-badge&logo=python&logoColor=fff)](https://www.hackerrank.com/certificates/ef125597c656)  
+
+---
+
 ## 🌱 Currently Learning
 - Java Programming Language
 - Advanced React patterns & performance optimization  
