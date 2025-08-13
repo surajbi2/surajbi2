@@ -56,14 +56,6 @@ Minimalist, visually rich landing page tailored for artists, optimized for perfo
 
 ---
 
-## 📊 GitHub Stats
-
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajbi2&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbi2&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=surajbi2&theme=tokyonight)
-
----
-
 ## 🌱 Currently Learning
 - Java Programming Language
 - Advanced React patterns & performance optimization  
