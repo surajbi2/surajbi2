@@ -56,6 +56,12 @@ Minimalist, visually rich landing page tailored for artists, optimized for perfo
 
 ---
 
+### 🔹 [CELT | CUK](https://celt.cuk.ac.in)
+**Tech:** React, Tailwind CSS, lucide-icons  
+Minimalist, visually rich, polished website with modern font for Centre for English Language Teaching (CELT) for our university Central University of Karnataka.
+
+---
+
 ## 🏆 Achievements
 
 - 🎓 **Qualified UGC NET (Computer Science) – June 2025**  
